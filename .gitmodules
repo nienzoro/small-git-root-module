@@ -1,0 +1,15 @@
+[submodule "small-git-api"]
+	path = small-git-api
+	url = https://github.com/nienzoro/small-git-api.git
+[submodule "small-git-schema"]
+	path = small-git-schema
+	url = https://github.com/nienzoro/small-git-schema.git
+[submodule "small-git-shared"]
+	path = small-git-shared
+	url = https://github.com/nienzoro/small-git-shared.git
+[submodule "small-git-craft"]
+	path = small-git-craft
+	url = https://github.com/nienzoro/small-git-craft.git
+[submodule "small-git-domain"]
+	path = small-git-domain
+	url = https://github.com/nienzoro/small-git-domain.git
