@@ -13,3 +13,18 @@
 [submodule "small-git-domain"]
 	path = small-git-domain
 	url = https://github.com/nienzoro/small-git-domain.git
+[submodule "small-git-app"]
+	path = small-git-app
+	url = https://github.com/nienzoro/small-git-app.git
+[submodule "studious-eureka"]
+	path = studious-eureka
+	url = https://github.com/nienzoro/studious-eureka.git
+[submodule "fantastic-octo-chainsaw"]
+	path = fantastic-octo-chainsaw
+	url = https://github.com/nienzoro/fantastic-octo-chainsaw.git
+[submodule "literate-octo-invention"]
+	path = literate-octo-invention
+	url = https://github.com/nienzoro/literate-octo-invention.git
+[submodule "silver-tribble"]
+	path = silver-tribble
+	url = https://github.com/nienzoro/silver-tribble.git
